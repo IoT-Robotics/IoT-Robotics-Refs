@@ -52,6 +52,7 @@
 ### [Robot Square](http://robotsquare.com) (Laurens Valk)
 
 
+## [IBM TJBot](https://github.com/ibmtjbot)
 
 
 ## [Raspberry Pi](https://www.raspberrypi.org)
