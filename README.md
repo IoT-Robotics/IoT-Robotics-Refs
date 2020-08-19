@@ -53,6 +53,7 @@
 
 
 ## [IBM TJBot](https://github.com/ibmtjbot)
+[Programming Activities](https://www.ibm.org/activities/tjbot)
 
 
 ## [Raspberry Pi](https://www.raspberrypi.org)
