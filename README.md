@@ -77,6 +77,10 @@
 ### [Coppelia Robotics](https://www.coppeliarobotics.com)
 - CoppeliaSim simulator
 
+### [Cyberbotics](https://www.cyberbotics.com)
+- [GitHub](https://github.com/cyberbotics)
+- [Webots Simulator](https://github.com/cyberbotics/webots)
+
 ### Open Roberta
 - https://github.com/OpenRoberta
 - https://open-roberta.org
